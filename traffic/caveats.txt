@@ -1,0 +1,1 @@
+The data files are too big and too numerous for GitHub to handle. However, the data for this project can be downloaded at https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip.
